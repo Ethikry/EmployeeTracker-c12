@@ -11,6 +11,25 @@ const addDepartmentQs = require("./lib/addDepartmentQs");
 const updateEmployeeQs = require("./lib/updateEmployeeQs");
 const menuQs = require("./lib/menuQs");
 
+require('dotenv').config();
+
+// Connect to database
+const db = mysql.createConnection(
+    {
+      host: 'localhost',
+      port: '3306',
+      user: process.env.DB_USER,
+      password: process.env.DB_PASSWORD,
+      database: 'employee_db'
+    },
+    console.log(`Connected to the ${database} database.`)
+);
+
+db.connect((err) => {
+    if (err) throw err;
+    init();
+});
+
 function viewDepartments() {
     
 };
@@ -78,4 +97,3 @@ function init() {
     });
 };
 
-init();
