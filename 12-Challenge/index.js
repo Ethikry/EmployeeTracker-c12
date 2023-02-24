@@ -5,7 +5,6 @@ const cTable = require("console.table");
 const addEmployeeQs = require("./lib/addEmployeeQs");
 const addRoleQs = require("./lib/addRoleQs");
 const addDepartmentQs = require("./lib/addDepartmentQs");
-const updateEmployeeQs = require("./lib/updateEmployeeQs");
 const menuQs = require("./lib/menuQs");
 
 require("dotenv").config();
