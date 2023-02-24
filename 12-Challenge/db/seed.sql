@@ -9,7 +9,7 @@ VALUES  ("Sales Lead", 100000, 1),
         ("Management Lead", 200000, 2),
         ("General Manager", 90000, 2),
         ("Customer Service Lead", 70000, 3),
-        ("Customer Service Representative", 40000, 3);
+        ("Customer Service", 40000, 3);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES  ("John", "Smith", 1, null),
