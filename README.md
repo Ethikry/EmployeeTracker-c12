@@ -1,0 +1,36 @@
+# Employee Tracker CMS
+
+  
+  ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
+  
+
+  ## Table of Contents 
+  * [Description](#Description)
+  * [Installation](#Installation)
+  * [Usage Information](#Usage)
+  * [Contribution Guidelines](#Contributions)
+  * [Tests](#Tests)
+  * [License](#License)
+  * [Contact Information](#Contact)
+  ## Description
+  This is a command line CMS application. It allows the user to set connections and roles between employees in a database. This utilizedNode.js, Inquirer, and MySQL.
+  ## Installation
+  To install this project, clone this repo and install the necessary packages.
+  ## Usage
+  Once installed, run `node index.js` in your CLI once you've navigated to the install directory. 
+  ## Contributions
+  Not accepting contributions.
+  ## Tests 
+  To test, clone the repo and open the program.
+  ## License
+  
+  
+  ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
+  
+  
+  © 2023 Ethan Gayton
+  
+  ## Contact
+  For questions, queries or comments, contact me here: 
+  [https://github.com/ethikry](https://github.com/ethikry)
+
