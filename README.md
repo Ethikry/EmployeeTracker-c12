@@ -18,6 +18,7 @@
   To install this project, clone this repo and install the necessary packages.
   ## Usage
   Once installed, run `node index.js` in your CLI once you've navigated to the install directory. 
+  Here is a video detailing how to use the program: https://youtu.be/OttWn-IyJRA
   ## Contributions
   Not accepting contributions.
   ## Tests 
