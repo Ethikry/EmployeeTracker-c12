@@ -22,8 +22,7 @@
   
   Screenshot here: ![Screenshot_20230226_074003](https://user-images.githubusercontent.com/113566829/221417324-4e6befa8-8238-44ba-819f-a70ce09793ef.png)
 
-  
-  ![Screenshot_20230226_060715](https://user-images.githubusercontent.com/113566829/221412346-4ac45d06-dd21-4f6e-99cf-aa843028bd4a.png)
+
 
   ## Contributions
   Not accepting contributions.
